@@ -1,0 +1,41 @@
+:root {
+    --branco: #FFF;
+    --preto: #000;
+    --vermelho: #F90B0B;
+    --verde: #54B435;
+    --cinza-escuro: #4F4C4C;
+    --cinza-claro: lightgrey;
+    --cinza-medio: #D9D9D9;
+    --cyan-blush: #abb8c3;
+
+
+    --fonte-link: #0084FF;
+    --fonte-cinza: #666;
+    
+    --borda-cabecalho-mobile: #103D4A;
+    --bg-rodape: #333;
+    --bg-chamada-mobile: #00161C;
+
+    --roboto: 'Roboto Condensed', sans-serif;
+    --orelega: 'Orelega One', cursive;
+    --righteous: 'Righteous', cursive;
+
+    --linha-verde: #54B435;
+
+    --category-verde: #54B435;
+    --category-laranja: #FD841F;
+
+}
+
+
+.container {
+    width: 100%;
+    padding: 0 0px;
+}
+
+em{
+    font-family: var(--orelega);
+    font-size: 1.2rem;
+    color: var(--preto);
+    font-style: italic;
+}
